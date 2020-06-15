@@ -1,0 +1,14 @@
+#top {
+    font-size: 36px;
+    border: 6px dotted blue;
+    width: fit-content;
+}
+#middle {
+    font-size: 24px;
+}
+#bottom {
+    font-size: 24px;
+}
+.name {
+    font-weight: bolder;
+}
