@@ -1,0 +1,20 @@
+Git commands:
+git pull --> refresh Git
+touch filename --> create new file
+git add * --> adds all files
+git commit -a -m "..." --> commits all files
+git push
+
+HTML commands:
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> .... </title>
+	</head>
+	<body>
+		<blabla>
+	</body>
+</html>
+HTML images:
+<img src="foto.jpg" width="50%">
+
